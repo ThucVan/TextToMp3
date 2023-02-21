@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">textToMp3</string>
+    <string name="pitch">Pitch</string>
+    <string name="Speed">Speed</string>
+    <string name="voice">Voice</string>
+    <string name="languages">Languages</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="eng">English</string>
+    <string name="hindi">Hindi - IN</string>
+    <string name="Say">Say !</string>
+    <string name="vn">Tiếng Việt</string>
+
+    <string-array name="lang">
+        <item>Hindi - IN</item>
+        <item>English</item>
+        <item>China</item>
+        <item>CANADA</item>
+        <item>GERMAN</item>
+    </string-array>
+</resources>
